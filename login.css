@@ -1,0 +1,15 @@
+
+.social-icon {
+    font-size: 2rem;
+    cursor: pointer;
+    color: #262b2f;
+}
+.social-icon:hover{
+    color:#b7c221;
+}
+.login_card{
+  width:120rem;
+  margin-left: -280px; 
+  
+
+}
