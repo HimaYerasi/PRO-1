@@ -3,11 +3,14 @@
     display: grid;
     grid-template-columns: 2fr 2fr 1fr;
     width: 100%;
+    
 }
 .col{
-    border-right: 2px solid;
-margin-left:5px;
+   
+    max-width:100%;
+    border-right: 2px solid  gray ;
 }
+
 #grid-3{
     border:0px;
 }
@@ -26,3 +29,4 @@ margin-left:5px;
   .zoom:hover {
     transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
   }
+ 
